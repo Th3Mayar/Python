@@ -1,6 +1,6 @@
 # Python programs
 
-+++
+---
 
 + ![Administrador de un banco](/Admin%20de%20banco.py)
 + ![Alarma](/alarma.py)
@@ -21,7 +21,7 @@
 + ![Calcular velocidad, distancia y tiempo](/Velocidad%2C%20distancia%2C%20tiempo%20y%20aceleracion.py)
 + ![Verificar password ingresada por teclado](/Verificar%20pass.py)
 
-+++
+---
 
 ### Create by:
 + ##### Jose Francisco H.
