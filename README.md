@@ -2,7 +2,7 @@
 
 ---
 
-![Administrador de un banco](/Admin%20de%20banco.py)
++ ![Administrador de un banco](/Admin%20de%20banco.py)
 + ![Alarma](/alarma.py)
 + ![Encriptar y desencriptar una frase](/Encriptar%20y%20desencriptar.py)
 + ![Gestor de contraseñas](/Gestor%20de%20password.py)
